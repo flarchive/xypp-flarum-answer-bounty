@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of xypp/flarum-answer-bounty.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/flarum-answer-bounty) or the [upstream repository](https://github.com/zxy19/flarum-answer-bounty).
 
-**0** versions archived · Latest: [`v1.0.5`](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.5) · License: `MIT` · Flarum: `^1.2.0`
+**6** versions archived · Latest: [`v1.0.5`](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.5) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-10-10 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-10-10 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.1) |
+| `v1.0.2` | 2024-10-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.2) |
+| `v1.0.3` | 2024-10-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.3) |
+| `v1.0.4` | 2024-10-14 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.4) |
+| `v1.0.5` | 2024-10-14 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-answer-bounty/tree/archive/v1.0.5) |
 
 Catalog entry: [packages/xypp-flarum-answer-bounty.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-flarum-answer-bounty.json)
 
